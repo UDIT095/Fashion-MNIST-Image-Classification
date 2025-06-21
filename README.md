@@ -126,6 +126,7 @@ Try advanced architectures like ResNet or MobileNet
 
 Deploy the model using Streamlit or Flask
 
-👨‍💻 Author
+## 👨‍💻 Author
+
 Udit Singh Rawat
 
